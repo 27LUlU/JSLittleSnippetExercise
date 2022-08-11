@@ -1,5 +1,8 @@
 import "./styles.css";
 
+/*
+**Prime number exercise
+*/
 function amIWilson(p) {
   // check if prime is Wilson
   if (p <= 0 || p === 1) {
